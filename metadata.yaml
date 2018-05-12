@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1851
     wikipedia: http://en.wikipedia.org/wiki/Paul_Leicester_Ford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36439#The-Story-of-an-Untold-Love
 gutenberg_issued: '2011-06-15'
 gutenberg_type: Text
 identifiers:
